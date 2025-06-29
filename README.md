@@ -7,14 +7,19 @@ Users can search for any GitHub profile and explore details such as repositories
 https://rawcdn.githack.com/ritika-iitg/GitFinder/c1aced274d69badc7f8d678dd784790b4832c26d/index.html
 
 ## Tech Stack
-HTML5 – Markup structure
-CSS3 – Styling and layout
-JavaScript – Logic and interactivity
+HTML5 – Markup structure  
+
+CSS3 – Styling and layout  
+
+JavaScript – Logic and interactivity  
+
 GitHub Public API – Fetching user and repository data
 
  ##  Features
- Search for GitHub users by username
- View profile information: avatar, bio, location, company, etc.
+ Search for GitHub users by username  
+ 
+ View profile information: avatar, bio, location, company, etc.  
+ 
  Toggle between Light Mode & Dark Mode
  Responsive and mobile-friendly UI
 
