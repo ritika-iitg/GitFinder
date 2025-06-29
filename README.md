@@ -26,6 +26,8 @@ GitHub Public API – Fetching user and repository data
  
 
  ### Acknowledgements
-GitHub API Documentation
-Favicon by favicon.io
+GitHub API Documentation  
+
+Favicon by favicon.io  
+
 Inspiration from GitHub profile viewers
