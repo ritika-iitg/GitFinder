@@ -20,8 +20,10 @@ GitHub Public API – Fetching user and repository data
  
  View profile information: avatar, bio, location, company, etc.  
  
- Toggle between Light Mode & Dark Mode
- Responsive and mobile-friendly UI
+ Toggle between Light Mode & Dark Mode  
+ 
+ Responsive and mobile-friendly UI  
+ 
 
  ### Acknowledgements
 GitHub API Documentation
